@@ -38,6 +38,9 @@ if (window.caches) {
 
         cache.keys().then(console.log)
 
+        console.log("anil kumar")
+
+
     })
 
 }
